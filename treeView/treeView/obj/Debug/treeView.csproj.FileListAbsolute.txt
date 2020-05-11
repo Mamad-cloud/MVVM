@@ -1,0 +1,15 @@
+F:\Programing\Useful-code\treeView\treeView\bin\Debug\treeView.exe.config
+F:\Programing\Useful-code\treeView\treeView\bin\Debug\treeView.exe
+F:\Programing\Useful-code\treeView\treeView\bin\Debug\treeView.pdb
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView.csprojAssemblyReference.cache
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\MainWindow.g.cs
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\App.g.cs
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView_MarkupCompile.cache
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView_MarkupCompile.lref
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\MainWindow.baml
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView.g.resources
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView.Properties.Resources.resources
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView.csproj.GenerateResource.cache
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView.csproj.CoreCompileInputs.cache
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView.exe
+F:\Programing\Useful-code\treeView\treeView\obj\Debug\treeView.pdb
